@@ -1,0 +1,185 @@
+
+
+<tag>
+</tag>
+<br>
+<br>
+<tag>
+</tag>
+<br>
+<br>
+<br>
+
+
+
+  <style>
+        
+        
+    div {border-color: coral;}
+        
+        
+        body {background: #}
+        
+        img { 
+   border:1px solid #e58a9d;
+
+}
+
+a {
+    color: #c2ace0;
+}
+    </style>
+    
+    
+
+
+    <head>
+        <meta charset="utf-8">
+        <title> </title>
+        <style media="screen">
+        header {
+            
+        background-color: white;
+        width: 500px;
+        height: 40px;
+         text-align: left;
+        margin-right: 890px;
+              margin-top: -70px;
+        
+            }
+          
+            li {
+             
+             text-align: center;
+                list-style-type: horizontal;
+                 margin-bottom: 10px;
+            margin-top: 20px;
+            }
+            
+            
+            ul#horizontal-list {
+	min-width: 696px;
+	list-style: none;
+	padding-top: -50px;
+	}
+	ul#horizontal-list li {
+		display: inline;
+ padding-right: 10px;
+}
+               #logo {
+  position: absolute;
+  left: 1325px;
+  top: 30px;
+  height: 50px;
+  width: 50px;
+  background-color: lightyellow;
+                   
+animation-name: rotate;
+    animation-duration: 4s;
+        -webkit-animation-name: rotate;
+        -webkit-animation-duration: 4s;
+    animation-interation-count: infinite;
+                   
+                   
+}
+            
+            @keyframes rotate 
+{
+    from {transform: rotate(0deg); webkit-transform: skewY(0deg);}
+to {transform: rotate(360deg); webkit-transform: skewY(360deg);
+}
+            nav {
+                <left> 
+                  background-color: lightyellow;
+        width: 500px;
+        height: 40px;
+         text-align: left;
+        margin-right: 850px;
+              margin-top: -70px;
+   
+                
+                
+ 
+     background-color: lightyellow;
+}
+           
+            
+            
+
+            
+/* Style the list inside the menu */
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+            }
+            
+        </style>
+    </head>
+    
+    <body>
+    <center>
+       <header>
+          
+
+  
+           <div id="menu-outer">
+  <div class="table">
+    <ul id="horizontal-list">
+       
+        
+         <font face="verdana" size="3" padding-right= 30px;  color="black"> <i>  hi, i'm marii       </i></font> 
+
+    <li><a href="#"><font face="verdana" size="2" color="lavender">home    </font></a></li>
+    <li><a href="#"><font face="verdana" size="2" color="lightpink">projects</font></a></li>
+   <li><a href="#"><font face="verdana" size="2" color="lightyellow">about</font></a></li>
+    <li><a href="#"><font face="verdana" size="2" color="lightblue">contact</font></a></li>
+    </ul>
+  </div>
+</div>
+            <br>   
+             
+  <div id="logo" 
+       
+       <a href="https://imgbb.com/"><img src="https://image.ibb.co/hMe4X9/Screen_Shot_2018_09_13_at_12_18_18_PM.png" alt="Screen_Shot_2018_09_13_at_12_18_18_PM" border="0" width="55"></a> 
+           
+       </header> 
+        </center>
+    </body>
+    
+   
+
+<br>
+
+
+<br> <center>
+<br>
+        
+        <br>
+        
+
+<br>
+ </center>
+
+
+  
+<br>
+        <br>
+        <br>
+        <br>
+
+
+       
+       
+<br>
+<br>
+<html>
+
+    
+    
+
+
+
+
+
